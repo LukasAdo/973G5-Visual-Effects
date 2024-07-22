@@ -1,0 +1,71 @@
+<batchrender>
+  <environmentinfo>
+    <machineinfo>
+      <machinename>Lukas</machinename>
+      <username>luca_</username>
+      <processortype>GenuineIntel, stepping 2, model 10, instruction family 6</processortype>
+      <processorname>13th Gen Intel Core i9-13900H</processorname>
+      <processornumber>20</processornumber>
+      <ostype>WINDOWS 64 BIT</ostype>
+      <osversion>Windows 11, 64 Bit, Core (build 22621)</osversion>
+      <oglvendorname>NVIDIA</oglvendorname>
+      <oglrendername>NVIDIA GeForce RTX 4050 Laptop GPU</oglrendername>
+      <oglversion>12</oglversion>
+    </machineinfo>
+    <c4dinfo>
+      <c4dversion>2024.1.0</c4dversion>
+      <c4dplugins>advanced_render analytics archigrass bugslife_client c4d_assetbrowser c4d_bitmapfilter c4d_manager c4d_nodeeditor c4d_nodes c4d_objects c4d_simulation c4d_viewport_render c4d_xtensions ca clothilde dynamics hair interop_bpexchange interop_forger interop_misc interop_moves io_alembic io_cadexchange io_collada14 io_collada15 io_compositing io_dwg io_fbx io_forger io_gltf io_goz io_obj io_skp io_substance io_usd mocca mograph motioncam motiontracker python redshift sculpt shader sketch sky sla teamrender thinking_particles tool_system_hybrid uvviewport volumes xpressocore redshift4c4d </c4dplugins>
+    </c4dinfo>
+  </environmentinfo>
+  <fileinfo>
+    <filename>Part 1.c4d</filename>
+    <filepath>C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Assignment 2 part 1</filepath>
+    <renderdatainfo>
+      <rendersettings>My Render Setting</rendersettings>
+      <take>Main</take>
+      <camera>Stage</camera>
+      <width>1980</width>
+      <height>1080</height>
+      <filmaspect>1.833</filmaspect>
+      <pixelaspect>1</pixelaspect>
+      <fps>25</fps>
+      <from>0</from>
+      <to>83</to>
+      <steps>1</steps>
+      <saveinfo>
+        <imagepath>C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Assignment 2 part 1</imagepath>
+        <imagedepth>8</imagedepth>
+        <imageformat>TIF</imageformat>
+      </saveinfo>
+      <videopost>
+        <effect id="1036219" name="Redshift" />
+      </videopost>
+    </renderdatainfo>
+  </fileinfo>
+  <renderinfo>
+    <imageinfo frame="0">00:00:01 C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Assignment 2 part 1\Part 1_Stage_a0000.tif</imageinfo>
+    <imageinfo frame="1">00:00:01 C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Assignment 2 part 1\Part 1_Stage_a0001.tif</imageinfo>
+    <imageinfo frame="2">00:00:01 C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Assignment 2 part 1\Part 1_Stage_a0002.tif</imageinfo>
+    <imageinfo frame="3">00:00:01 C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Assignment 2 part 1\Part 1_Stage_a0003.tif</imageinfo>
+    <imageinfo frame="4">00:00:01 C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Assignment 2 part 1\Part 1_Stage_a0004.tif</imageinfo>
+    <imageinfo frame="5">00:00:01 C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Assignment 2 part 1\Part 1_Stage_a0005.tif</imageinfo>
+    <imageinfo frame="6">00:00:01 C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Assignment 2 part 1\Part 1_Stage_a0006.tif</imageinfo>
+    <imageinfo frame="7">00:00:01 C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Assignment 2 part 1\Part 1_Stage_a0007.tif</imageinfo>
+    <imageinfo frame="8">00:00:02 C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Assignment 2 part 1\Part 1_Stage_a0008.tif</imageinfo>
+    <imageinfo frame="9">00:00:03 C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Assignment 2 part 1\Part 1_Stage_a0009.tif</imageinfo>
+    <imageinfo frame="10">00:00:04 C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Assignment 2 part 1\Part 1_Stage_a0010.tif</imageinfo>
+    <imageinfo frame="11">00:00:08 C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Assignment 2 part 1\Part 1_Stage_a0011.tif</imageinfo>
+    <imageinfo frame="12">00:00:14 C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Assignment 2 part 1\Part 1_Stage_a0012.tif</imageinfo>
+    <imageinfo frame="13">00:00:19 C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Assignment 2 part 1\Part 1_Stage_a0013.tif</imageinfo>
+    <imageinfo frame="14">00:00:23 C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Assignment 2 part 1\Part 1_Stage_a0014.tif</imageinfo>
+    <imageinfo frame="15">00:00:25 C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Assignment 2 part 1\Part 1_Stage_a0015.tif</imageinfo>
+    <imageinfo frame="16">00:00:24 C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Assignment 2 part 1\Part 1_Stage_a0016.tif</imageinfo>
+    <imageinfo frame="17">00:00:23 C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Assignment 2 part 1\Part 1_Stage_a0017.tif</imageinfo>
+  </renderinfo>
+  <batchinfo>
+    <added>18/11/2023, 21:41:00</added>
+    <started>18/11/2023, 21:41:02</started>
+    <rendertime>00:02:48</rendertime>
+    <result>Stopped - 0 To 18</result>
+  </batchinfo>
+</batchrender>

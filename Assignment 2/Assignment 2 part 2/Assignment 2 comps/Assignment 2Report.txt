@@ -1,0 +1,61 @@
+Report created: 
+	21/11/2023	09:21:15
+
+Project name: Assignment 2.aep
+
+Source files collected to: 
+	C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Assignment 2 part 2\Assignment 2 comps
+
+Source files collected: For all comps
+
+Collected comps:  
+	Library
+	Fiction
+	Fiction
+	Sports
+	Poetry
+	Law
+	History
+	Travelling
+	Psychology
+	Biography
+	Science Fiction
+	Physics
+	Art
+	Free Wifi
+	Free Wifi
+	Opening
+	
+Number of collected files:  13
+
+Size of collected files:  47.0 MB
+
+Collected source files: 
+	C:\Users\luca_\Downloads\Screenshot 2023-11-21 060047.png
+	C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Assignment 2 part 2\A2 Source footage for Assignment 2 Part 2\A2 Source footage for Assignment 2 Part 2\Library.mp4
+	C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Assignment 2 part 2\A2 Source footage for Assignment 2 Part 2\A2 Source footage for Assignment 2 Part 2\wifi.png
+	C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Completed videos\MenPart2\Men2.c4d
+	C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Completed videos\MenPart2\tex\Bigman02.jpg
+	C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Completed videos\MenPart2\tex\Bigman02_1.jpg
+	C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Completed videos\MenPart2\tex\BMan0006-HD2-O01P05-D.jpg
+	C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Completed videos\MenPart2\tex\BMan0006-HD2-O01P05-N.jpg
+	C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Completed videos\MenPart2\Men2shadowpass.c4d
+	C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Completed videos\MenPart2\tex\Bigman02.jpg
+	C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Completed videos\MenPart2\tex\Bigman02_1.jpg
+	C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Completed videos\MenPart2\tex\BMan0006-HD2-O01P05-D.jpg
+	C:\Users\luca_\OneDrive\Documents\Masters\Modules\973G5 Visual Effects\Assignment 2\Completed videos\MenPart2\tex\BMan0006-HD2-O01P05-N.jpg
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  2
+
+Effect:  3D Camera Tracker
+	
+Effect:  Cineware
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Lucida Sans”, Font style: “Demibold Roman”
+
